@@ -1,14 +1,14 @@
 import React from "react"
 import { Link } from "gatsby"
 
-const contact = () => {
+const docs = () => {
   return (
     <div>
-      <div>Hello world!</div>
+      <div>How useAuth?</div>
       <div>
         <Link to="/">Front Page</Link>
       </div>
     </div>
   )
 }
-export default contact
+export default docs
