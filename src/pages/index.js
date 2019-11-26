@@ -14,8 +14,8 @@ const Index = () => {
               <div>
                 <Button
                   size="large"
-                  secondary
-                  variant="outlined"
+                  variant="contained"
+                  color="primary"
                   href="/docs/"
                   overrideCSS={{ mt: 5 }}
                   endIcon={<ArrowForward />}
@@ -39,7 +39,7 @@ const Index = () => {
             <div>
               <Button
                 size="large"
-                secondary
+                color="primary"
                 variant="outlined"
                 href="/docs/"
                 overrideCSS={{ mt: 5 }}
