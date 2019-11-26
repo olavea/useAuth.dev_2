@@ -1,5 +1,4 @@
 import React from "react"
-import { Link } from "gatsby"
 import AppBar from "../components/AppBar"
 import HowUnit from "../components/HowUnit"
 import FooterUnit from "../components/FooterUnit"
