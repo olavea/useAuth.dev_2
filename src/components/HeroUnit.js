@@ -19,7 +19,9 @@ const HeroUnit = () => {
         >
           What is useAuth?
         </Typography>
-        <div>For who for and why useAuth?</div>
+        <Typography variant="h5" align="center" color="textSecondary" paragraph>
+          For who for and why useAuth?
+        </Typography>
         <div>
           <div>
             <Grid container justify="center">
